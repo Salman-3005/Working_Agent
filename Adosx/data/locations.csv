@@ -1,0 +1,16 @@
+location_id,org_id,location_name,city
+LOC-01,ORG-ALPHA,North Station,New York
+LOC-02,ORG-ALPHA,East Hub,Boston
+LOC-03,ORG-ALPHA,West Terminal,Albany
+LOC-04,ORG-BETA,Central Point,Chicago
+LOC-05,ORG-BETA,Lake Branch,Milwaukee
+LOC-06,ORG-BETA,River Center,Detroit
+LOC-07,ORG-GAMMA,South Depot,Austin
+LOC-08,ORG-GAMMA,Gulf Harbor,Houston
+LOC-09,ORG-GAMMA,Bayou Dock,New Orleans
+LOC-10,ORG-DELTA,Pacific Pier,Seattle
+LOC-11,ORG-DELTA,Valley Junction,Portland
+LOC-12,ORG-DELTA,Bay Terminal,San Francisco
+LOC-13,ORG-ALPHA,Metro Tower,Philadelphia
+LOC-14,ORG-BETA,Prairie Post,Minneapolis
+LOC-15,ORG-GAMMA,Hilltop Gateway,Dallas
